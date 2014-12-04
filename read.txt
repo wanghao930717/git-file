@@ -1,4 +1,6 @@
-master it is a good idea to add a new branch
+
+feature1 it is a good idea to add a new branch
+>>>>>>> feature1
 hello world 
 modify for the first time
 it is  a test for wanghao 
